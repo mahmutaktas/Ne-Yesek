@@ -9,7 +9,7 @@ Mahmut AKTAŞ
 
 # Work Done:
 **Ali Beytullah ÖZKAN:** Creating Map and getting random dining place on the map.\
-**Mahmut AKTAŞ:** Creating Login&Register and profile screen, database connection.\
+**Mahmut AKTAŞ:** Creating Login&Register and profile screen, database connection.
 
 **Login Screen**\
 <img src="https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/1.png" width="200" height="400" />
