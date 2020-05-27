@@ -14,7 +14,7 @@ Mahmut AKTAŞ
 **Login Screen**\
 <img src="https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/1.png" width="200" height="400" />
 
-**Main Menu**
+**Main Menu**\
 <img src="https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/2.png" width="200" height="400" />
 
 **Map Screen**\
