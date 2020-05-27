@@ -21,7 +21,7 @@ Mahmut AKTAŞ
 <img src="https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/3.png" width="200" height="400" />
 
 **Profile Screen**\
-<img src="https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/5.png" width="200" height="400" />
+<img src="https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/6.png" width="200" height="400" />
 
 
 
