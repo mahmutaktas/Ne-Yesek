@@ -5,23 +5,23 @@
 # Developers:
 Ali Beytullah ÖZKAN\
 Muhammet ŞERAMET\
-Mahmut AKTAŞ\
+Mahmut AKTAŞ
 
 # Work Done:
 **Ali Beytullah ÖZKAN:** Creating Map and getting random dining place on the map.\
 **Mahmut AKTAŞ:** Creating Login&Register and profile screen, database connection.\
 
 **Login Screen**
-![Login Screen](https://github.com/mahmutaktas/Ne-Yesek/blob/master/reame_img/1.png)\
+![Login Screen](https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/1.png)
 
 **Main Menu**
-![Main Menu](https://github.com/mahmutaktas/Ne-Yesek/blob/master/reame_img/2.png)\
+![Main Menu](https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/2.png)
 
 **Map Screen**
-![Map Screen](https://github.com/mahmutaktas/Ne-Yesek/blob/master/reame_img/3.png)\
+![Map Screen](https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/3.png)
 
 **Profile Screen**
-![Profile Screen](https://github.com/mahmutaktas/Ne-Yesek/blob/master/reame_img/5.png)\
+![Profile Screen](https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/5.png)
 
 
 
