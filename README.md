@@ -11,17 +11,17 @@ Mahmut AKTAŞ
 **Ali Beytullah ÖZKAN:** Creating Map and getting random dining place on the map.\
 **Mahmut AKTAŞ:** Creating Login&Register and profile screen, database connection.\
 
-**Login Screen**
-![Login Screen](https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/1.png)
+**Login Screen**\
+<img src="https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/1.png" width="200" height="400" />
 
 **Main Menu**
-![Main Menu](https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/2.png)
+<img src="https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/2.png" width="200" height="400" />
 
-**Map Screen**
-![Map Screen](https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/3.png)
+**Map Screen**\
+<img src="https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/3.png" width="200" height="400" />
 
-**Profile Screen**
-![Profile Screen](https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/5.png)
+**Profile Screen**\
+<img src="https://github.com/mahmutaktas/Ne-Yesek/blob/master/ne_yesek_img/5.png" width="200" height="400" />
 
 
 
